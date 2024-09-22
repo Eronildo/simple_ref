@@ -1,0 +1,5 @@
+dependency_overrides:
+  ref_core:
+    path: ../../packages/ref_core
+  simple_ref:
+    path: ../../packages/simple_ref

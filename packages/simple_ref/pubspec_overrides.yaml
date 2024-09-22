@@ -1,0 +1,3 @@
+dependency_overrides:
+  ref_core:
+    path: ../ref_core
