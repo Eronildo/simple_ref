@@ -1,9 +1,9 @@
 name: simple_ref
 description: A simple, lightweight and auto disposable service locator reference library with overrides support for Flutter.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Eronildo/simple_ref/tree/master/packages/simple_ref
 homepage: https://github.com/Eronildo/simple_ref
-topics: [state-management, dependency-injection, reference, ref]
+topics: [service-locator, dependency-injection, reference, ref, testable]
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ref_core: ^1.0.0
+  ref_core: ^1.0.1
 
 dev_dependencies:
   flutter_test:

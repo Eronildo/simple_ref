@@ -1,9 +1,9 @@
 name: ref_core
 description: A simple and lightweight service locator reference library with overrides support for Dart.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Eronildo/simple_ref/tree/master/packages/ref_core
 homepage: https://github.com/Eronildo/simple_ref
-topics: [state-management, dependency-injection, reference, ref]
+topics: [service-locator, dependency-injection, reference, ref, testable]
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

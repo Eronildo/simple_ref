@@ -13,7 +13,7 @@ A simple, lightweight and auto disposable **service locator** reference library 
 ## Installation
 
 ```bash
-flutter pub add --dev simple_ref
+flutter pub add simple_ref
 ```
 
 ## Usage

@@ -18,7 +18,7 @@ A simple and lightweight service locator reference library with overrides suppor
 ## Installation
 
 ```console
-dart pub add --dev ref_core
+dart pub add ref_core
 ```
 
 ## Usage
