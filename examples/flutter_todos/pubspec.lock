@@ -230,7 +230,7 @@ packages:
       path: "../../packages/ref_core"
       relative: true
     source: path
-    version: "1.0.0"
+    version: "1.0.1"
   shared_preferences:
     dependency: "direct main"
     description:
@@ -293,7 +293,7 @@ packages:
       path: "../../packages/simple_ref"
       relative: true
     source: path
-    version: "1.0.0"
+    version: "1.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
